@@ -1,0 +1,32 @@
+.infoPage {
+    padding: 1rem;
+    font-family: 'Droid Serif', serif;
+}
+
+.mealImg {
+    max-height: 500px;
+    max-width: 100%;
+}
+
+.infoPage h6 {
+    font-size: 1rem;
+    margin: 1rem 0;
+    font-weight: normal;
+    font-style: italic;
+    
+}
+
+table {
+    margin: 2.5rem auto;
+    border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+}
+
+td {
+    border-top: 1px solid gray;
+}
+
+td, th {
+    padding: 14px;
+}
